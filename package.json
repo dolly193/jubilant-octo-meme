@@ -1,0 +1,15 @@
+{
+  "name": "meu-bot-discord",
+  "version": "1.0.0",
+  "description": "Um bot de moderação para Discord que usa Render e Uptime Robot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sammyni",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
